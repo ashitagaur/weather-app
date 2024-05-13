@@ -11,7 +11,7 @@
 1. Clone the Repository
 2. Run **npm install** or **npm i** to install the dependencies
 3. Run **npm run dev** to start the development server
-4. Open http://localhost:5174 in your browser
+4. Open http://localhost:5173 in your browser
 
 
 
