@@ -1,0 +1,27 @@
+.highlights {
+  min-height: 400px;
+  padding: 5vh;
+}
+
+.card {
+  min-height: 20vh;
+  max-height: 20vh;
+  border-radius: 2vh !important;
+  box-shadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)";
+  justify-content: baseline;
+  padding: 1vh;
+}
+
+.heading {
+  color: grey;
+}
+
+.value {
+  font-size: 2.2em !important;
+  font-weight: bold;
+}
+
+.suncardValue {
+  font-size: 1.2em !important;
+  font-weight: bold;
+}
